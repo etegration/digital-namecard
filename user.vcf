@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Wee;360;;;
+N:360 Pano;Wee;;;
 FN: Wee Gwee Wan 
 ORG:Pano Asia;
 TITLE:Photographer 360 Panorama
 EMAIL;type=INTERNET;type=WORK;type=pref:360@itcow.com
 TEL;type=WORK;type=VOICE:+65 9423 8623
-item1.ADR;type=WORK;type=pref:;;114 Lavender Street\nCT Hub 2\, 03-77;;;338729;Singapore
+item1.ADR;type=WORK;type=pref:;;114 Lavender Street\nCT Hub 2\, #03-77;;;Singapore3 38729
 item1.X-ABADR:sg
 item2.URL;type=pref:www.pano.asia
 item2.X-ABLabel:_$!<HomePage>!$_
